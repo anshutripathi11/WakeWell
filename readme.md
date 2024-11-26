@@ -99,7 +99,7 @@ conda env create -f requirement.yaml
 
 1. Clone the repository to the local system.
     ```
-    git clone https://github.com/amitashnanda/Circadian-Rhythm-driven-Alertness-Investigation.git
+    git clone https://github.com/anshutripathi11/WakeWell.git
 
     ```
 2. Open ```/data/```
@@ -110,19 +110,13 @@ conda env create -f requirement.yaml
 
 3. Open ```/src/``` 
 
-4. To run visualization for all the analysis. Inside the conda environment created using ```requirement.yaml```.
-
-    ```
-    jupyter notebook  all_visualization.ipynb
-
-    ```
-5. To run individual other files 
+4. To run individual other files 
 
     ```
     jupyter notebook <file_name>
 
     ```
-6. To run the model  analysis, transformation, normalization, training, and prediction.
+5. To run the model  analysis, transformation, normalization, training, and prediction.
 
     ```
     model.ipynb
