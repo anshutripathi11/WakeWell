@@ -52,6 +52,8 @@ We performed analysis stated below:
 │   └──model.ipynb
 │   
 │
+├── DS_Project_Presentation.pptx           <- Presentation
+│
 ├── DS Project Report.pdf           <- Report
 │
 ├── readme.md                   <- README
